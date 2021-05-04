@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+Github [profile][1] page
+
+[1]: https://github.com/Paul-Gallagher
