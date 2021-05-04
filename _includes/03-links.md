@@ -1,3 +1,1 @@
-Github [profile][1] page
-
-[1]: https://github.com/Paul-Gallagher
+Github [profile]( https://github.com/Paul-Gallagher) page
